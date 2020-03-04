@@ -536,7 +536,6 @@ class RestActionReader
             ParamFetcherInterface::class,
             Request::class,
             SessionInterface::class,
-            UserInterface::class,
         ];
 
         $arguments = [];
